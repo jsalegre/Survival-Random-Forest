@@ -1,5 +1,5 @@
 # Survival-Random-Forest
-SRF for survival analysis and prediction of patients
+SRF for survival analysis and survival prediction.
 
 Survival Random Forest - Example
 
