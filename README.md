@@ -18,3 +18,5 @@ To avoid that the order of the samples influences the results, for each K-fold, 
 The file "Analytics_RSF.py" helps calculating the mean and standard deviation of each combination of scenario and K-folds to come up with the C-Index range for that case.
 
 The file "Features_RSF.py" performs a permutaion of importance among the variables of each case. The predifined selected cases are the cases of each scenario that resulted in the best C-Index.
+
+Dataset used not disclosed due to data protection policies.
